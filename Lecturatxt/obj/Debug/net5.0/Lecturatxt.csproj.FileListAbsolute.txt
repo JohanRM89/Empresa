@@ -1,0 +1,16 @@
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\bin\Debug\net5.0\Lecturatxt.exe
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\bin\Debug\net5.0\Lecturatxt.deps.json
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\bin\Debug\net5.0\Lecturatxt.runtimeconfig.json
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\bin\Debug\net5.0\Lecturatxt.runtimeconfig.dev.json
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\bin\Debug\net5.0\Lecturatxt.dll
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\bin\Debug\net5.0\ref\Lecturatxt.dll
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\bin\Debug\net5.0\Lecturatxt.pdb
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\Lecturatxt.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\Lecturatxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\Lecturatxt.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\Lecturatxt.AssemblyInfo.cs
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\Lecturatxt.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\Lecturatxt.dll
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\ref\Lecturatxt.dll
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\Lecturatxt.pdb
+C:\Users\johan\source\repos\Lecturatxt\Lecturatxt\obj\Debug\net5.0\Lecturatxt.genruntimeconfig.cache
